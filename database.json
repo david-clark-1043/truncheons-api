@@ -1,0 +1,223 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "fullname": "Joe Bob",
+      "teamId": 1
+    },
+    {
+      "id": 2,
+      "fullname": "Celestyn Oloman",
+      "teamId": 1
+    },
+    {
+      "id": 3,
+      "fullname": "Glenden Volks",
+      "teamId": 1
+    },
+    {
+      "id": 4,
+      "fullname": "Ava Mangenet",
+      "teamId": 2
+    },
+    {
+      "id": 5,
+      "fullname": "Bonita Brocking",
+      "teamId": 2
+    },
+    {
+      "id": 6,
+      "fullname": "Cacilia Peggram",
+      "teamId": 2
+    },
+    {
+      "id": 7,
+      "fullname": "Clyde Cyson",
+      "teamId": 3
+    },
+    {
+      "id": 8,
+      "fullname": "Krystalle Diggens",
+      "teamId": 3
+    },
+    {
+      "id": 9,
+      "fullname": "Delia Abelovitz",
+      "teamId": 43
+    },
+    {
+      "id": 10,
+      "fullname": "Claiborn Anchor",
+      "teamId": 4
+    },
+    {
+      "id": 11,
+      "fullname": "Heidie Roddam",
+      "teamId": 3
+    },
+    {
+      "fullName": "Larry",
+      "teamId": 4,
+      "id": 12
+    },
+    {
+      "fullName": "Dennis",
+      "teamId": 8,
+      "id": 13
+    },
+    {
+      "fullName": "Dee",
+      "teamId": 8,
+      "id": 14
+    },
+    {
+      "fullName": "Frank",
+      "teamId": 8,
+      "id": 15
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Mongooses"
+    },
+    {
+      "teamName": "Shepards",
+      "id": 2
+    },
+    {
+      "teamName": "Riders of Rohan",
+      "id": 3
+    },
+    {
+      "teamName": "Rogue Squadron",
+      "id": 4
+    },
+    {
+      "teamName": "Cobras",
+      "id": 5
+    },
+    {
+      "teamName": "Hornets",
+      "id": 6
+    },
+    {
+      "teamName": "Sloths",
+      "id": 7
+    },
+    {
+      "teamName": "Golden Geese",
+      "id": 8
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "gameScore": 4,
+      "teamId": 1,
+      "timeStamp": 1644376786060
+    },
+    {
+      "teamId": 1,
+      "gameScore": 9,
+      "timestamp": 1645120669840,
+      "id": 2
+    },
+    {
+      "teamId": 1,
+      "gameScore": 3,
+      "timestamp": 1645132514212,
+      "id": 3
+    },
+    {
+      "teamId": 2,
+      "gameScore": 3,
+      "timestamp": 1645132514212,
+      "id": 4
+    },
+    {
+      "teamId": 1,
+      "gameScore": 0,
+      "timestamp": 1645133669230,
+      "id": 6
+    },
+    {
+      "teamId": 3,
+      "gameScore": 0,
+      "timestamp": 1645133669230,
+      "id": 8
+    },
+    {
+      "teamId": 1,
+      "gameScore": 0,
+      "timestamp": 1645134037759,
+      "id": 9
+    },
+    {
+      "teamId": 3,
+      "gameScore": 0,
+      "timestamp": 1645134037760,
+      "id": 10
+    },
+    {
+      "teamId": 2,
+      "gameScore": 0,
+      "timestamp": 1645199388833,
+      "id": 12
+    },
+    {
+      "teamId": 1,
+      "gameScore": 0,
+      "timestamp": 1645199388833,
+      "id": 13
+    },
+    {
+      "teamId": 3,
+      "gameScore": 0,
+      "timestamp": 1645199388833,
+      "id": 14
+    },
+    {
+      "teamId": 2,
+      "gameScore": 0,
+      "timestamp": 1645199418630,
+      "id": 15
+    },
+    {
+      "teamId": 1,
+      "gameScore": 0,
+      "timestamp": 1645199418630,
+      "id": 16
+    },
+    {
+      "teamId": 3,
+      "gameScore": 0,
+      "timestamp": 1645199418630,
+      "id": 17
+    },
+    {
+      "teamId": 3,
+      "gameScore": 0,
+      "timestamp": 1645199462893,
+      "id": 18
+    },
+    {
+      "teamId": 2,
+      "gameScore": 0,
+      "timestamp": 1645199462893,
+      "id": 19
+    },
+    {
+      "teamId": 1,
+      "gameScore": 0,
+      "timestamp": 1645199462893,
+      "id": 20
+    },
+    {
+      "teamId": 1,
+      "gameScore": 1,
+      "timestamp": 1645199481787,
+      "id": 21
+    }
+  ]
+}
